@@ -1,10 +1,8 @@
 Package: Test
 Title: Multivariate Analysis Tools
 Version: 0.0.1.000
-Authors@R: c(
-    person("Katalina", "Leyva", email = "f@gmail.com", role = c("aut", "cre")),
-    person("Jonatan", "Palomares", email = "g@gmail.com", role = c("aut", "cre"))
-  )
+Authors@R:
+    person("Katalina", "Leyva", email = "f@gmail.com", role = c("aut", "cre"))
 Description: This package provides users with basic tools for statistical
     multivariate analysis, including functions for initial descriptive analysis 
     and dimensionality reduction.
